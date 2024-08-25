@@ -1,6 +1,6 @@
 # Jogo do Número Secreto - Alura
 
-Este é um projeto desenvolvido como parte dos estudos na plataforma Alura, onde criamos um jogo simples do **Número Secreto**. O jogo foi construído utilizando as tecnologias web básicas: **HTML, CSS e JavaScript**.
+Este é um projeto desenvolvido como parte do programa ONE - Oracle Next Education, onde criamos um jogo simples do **Número Secreto**. O jogo foi construído utilizando as tecnologias web básicas: **HTML, CSS e JavaScript**.
 
 ## Descrição
 O Jogo do Número Secreto é um desafio em que o usuário deve adivinhar um número secreto gerado aleatoriamente pelo sistema. O jogo fornece feedback para o jogador, indicando se o número inserido é maior ou menor que o número secreto, até que o jogador acerte o número correto.
